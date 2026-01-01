@@ -12,6 +12,37 @@ class portfolio extends Model
     public static function index(){
         $portfolios = [
 
+             [
+                'inside_img' => '201.webp',
+                'outside_img' => '201.jpg',
+                'text1' => '201 E 74th St, New York, NY 10021',
+                'text2' => 'Panting, Epoxy Painting',
+                'slide' => 'slideInLeft',
+
+            ],
+             [
+                'inside_img' => '953.png',
+                'outside_img' => '953.jpg',
+                'text1' => '953 Dean St, Brooklyn, NY 11238',
+                'text2' => 'Panting, Epoxy Painting',
+                'slide' => 'slideInDown',
+
+            ],
+            [
+                'inside_img' => '827.jpg',
+                'outside_img' => '827.jpg',
+                'text1' => '827 Sterling Pl, Brooklyn, NY 11216',
+                'text2' => 'Panting, Epoxy Painting',
+                'slide' => 'slideInLeft',
+            ],
+            [
+                'inside_img' => '286.png',
+                'outside_img' => '286.jpg',
+                'text1' => '286 Rider Ave, Bronx, NY 10451',
+                'text2' => 'Panting, Epoxy Painting',
+                'slide' => 'slideInLeft',
+            ],
+
             [
                 'inside_img' => '322.jpg',
                 'outside_img' => '322.jpg',
@@ -91,36 +122,6 @@ class portfolio extends Model
                 'text2' => 'Panting, Epoxy Painting',
                 'slide' => 'slideInLeft',
 
-            ],
-             [
-                'inside_img' => '201.webp',
-                'outside_img' => '201.jpg',
-                'text1' => '201 E 74th St, New York, NY 10021',
-                'text2' => 'Panting, Epoxy Painting',
-                'slide' => 'slideInLeft',
-
-            ],
-             [
-                'inside_img' => '953.png',
-                'outside_img' => '953.jpg',
-                'text1' => '953 Dean St, Brooklyn, NY 11238',
-                'text2' => 'Panting, Epoxy Painting',
-                'slide' => 'slideInLeft',
-
-            ],
-            [
-                'inside_img' => '827.jpg',
-                'outside_img' => '827.jpg',
-                'text1' => '827 Sterling Pl, Brooklyn, NY 11216',
-                'text2' => 'Panting, Epoxy Painting',
-                'slide' => 'slideInLeft',
-            ],
-            [
-                'inside_img' => '286.png',
-                'outside_img' => '286.jpg',
-                'text1' => '286 Rider Ave, Bronx, NY 10451',
-                'text2' => 'Panting, Epoxy Painting',
-                'slide' => 'slideInLeft',
             ]
 
 
