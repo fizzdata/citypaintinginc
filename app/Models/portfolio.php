@@ -87,11 +87,42 @@ class portfolio extends Model
             [
                 'inside_img' => '44-01.jpg',
                 'outside_img' => '44-01.jpg',
-                'text1' => '44-1 Northern Blvd Long Island City, NY 11101',
+                'text1' => '44-01 Northern Blvd Long Island City, NY 11101',
                 'text2' => 'Panting, Epoxy Painting',
                 'slide' => 'slideInLeft',
 
             ],
+             [
+                'inside_img' => '201.webp',
+                'outside_img' => '201.jpg',
+                'text1' => '201 E 74th St, New York, NY 10021',
+                'text2' => 'Panting, Epoxy Painting',
+                'slide' => 'slideInLeft',
+
+            ],
+             [
+                'inside_img' => '953.png',
+                'outside_img' => '953.jpg',
+                'text1' => '953 Dean St, Brooklyn, NY 11238',
+                'text2' => 'Panting, Epoxy Painting',
+                'slide' => 'slideInLeft',
+
+            ],
+            [
+                'inside_img' => '827.jpg',
+                'outside_img' => '827.jpg',
+                'text1' => '827 Sterling Pl, Brooklyn, NY 11216',
+                'text2' => 'Panting, Epoxy Painting',
+                'slide' => 'slideInLeft',
+            ],
+            [
+                'inside_img' => '286.png',
+                'outside_img' => '286.jpg',
+                'text1' => '286 Rider Ave, Bronx, NY 10451',
+                'text2' => 'Panting, Epoxy Painting',
+                'slide' => 'slideInLeft',
+            ]
+
 
 
         ];
